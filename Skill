@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Children's Learning Skills Development</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #FFE5B4; /* Orange background */
+      color: #333; /* Dark text color */
+      margin: 0;
+      padding: 20px;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 1.2em;
+      line-height: 1.6;
+    }
+    .benefits {
+      background-color: #FFF8DC; /* Light yellow background for benefits section */
+      padding: 15px;
+      border-radius: 8px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Children's Learning Skills Development</h1>
+    <p>Empowering young minds through abacus learning!</p>
+  </header>
+
+  <section class="benefits">
+    <h2>Benefits of Abacus Learning</h2>
+    <p>Abacus learning enhances concentration, improves math skills, boosts memory, and fosters quick thinking.</p>
+    <p>It also cultivates creativity and enhances problem-solving abilities in children.</p>
+  </section>
+
+  <section>
+    <h2>About Us</h2>
+    <p>We are dedicated to providing children with engaging learning experiences that promote skill development and growth.</p>
+    <p>Our programs focus on nurturing young minds and helping them reach their full potential.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 YourName. All rights reserved.</p>
+  </footer>
+</body>
+</html>
